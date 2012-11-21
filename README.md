@@ -1,4 +1,0 @@
-angels-rest
-===========
-
-Angels' reST
